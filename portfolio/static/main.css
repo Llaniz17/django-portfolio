@@ -1,0 +1,20 @@
+body{
+    background: #090909;
+}
+
+.bg-black{
+    background: #000;
+}
+
+.card-project:hover{
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+.btn-pp{
+    max-width: 99%;
+}
+
+.navbar .container a{
+    color: #fff;
+}
